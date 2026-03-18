@@ -101,10 +101,6 @@ No login, no signup — enter any GitHub username and get a full stats card with
 
 <img src="https://github-readme-streak-stats-eight.vercel.app?user=visheshrai296-tech&theme=tokyonight&hide_border=true&background=0D1117&ring=6366f1&fire=0d9488&currStreakNum=6366f1&sideNums=6366f1&currStreakLabel=6366f1&dates=FFFFFF" alt="GitHub Streak" />
 
-<br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api?username=visheshrai296-tech&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=0d9488&text_color=e8eeff&count_private=true" height="160" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=visheshrai296-tech&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&text_color=e8eeff" height="160" />
 
 </div>
 
