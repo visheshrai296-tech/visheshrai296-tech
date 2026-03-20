@@ -1,76 +1,57 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=0xVishesh&fontSize=90&animation=fadeIn&fontAlignY=38" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=200&section=header&text=0xVishesh%20|%20Full%20Stack%20Engineer&fontSize=50&animation=fadeIn" />
 </p>
 
-## 👋 Hello, World! I'm Vishesh.
+## 🚀 Transforming Ideas into Scalable Digital Realities
 
+I am a **Full Stack Developer** specializing in building robust web architectures and high-performance applications. My expertise lies in creating seamless user interfaces integrated with powerful backend systems. Currently, I am focused on building **EduNex AI**, an ecosystem designed to digitize educational resources.
+
+---
+
+### 🛠 Tech Stack & Expertise
+
+| Category | Technologies |
+| :--- | :--- |
+| **Frontend** | React.js, Next.js, Tailwind CSS, TypeScript, Redux |
+| **Backend** | Node.js, Express.js, GraphQL, REST APIs |
+| **Databases** | MongoDB, PostgreSQL, Redis |
+| **DevOps & Tools** | Git, Docker, AWS, Postman, Vercel |
+
+---
+
+### 📈 Contribution Graph (Daily Activity)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=0xVishesh&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=0xVishesh&theme=tokyonight&hide_border=true" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+</p>
+
+---
+
+### 🌟 Featured Projects
+- **EduNex AI** (Lead Developer)
+  - An AI-powered platform for students to access structured learning materials.
+  - *Tech: Next.js, Node.js, MongoDB*
+- **Freelance Engine**
+  - Custom built-to-order web solutions for global clients.
+
+---
+
+### ⚡ Professional Philosophy
+> *"Code is not just instructions for machines; it's a medium for solving human problems. I write code that is clean, scalable, and maintainable."*
+
+---
+
+### 🤝 Connect & Collaborate
 <p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&width=435&lines=Full+Stack+Developer;BCA+Student+%40+1st+Sem;Founder+of+EduNex+AI;Freelance+Web+Architect" alt="Typing SVG" />
-</p>
-
----
-
-### 🚀 About Me
-I am a **Full Stack Developer** currently pursuing my **Bachelor of Computer Applications (BCA)**. I bridge the gap between complex backend logic and intuitive frontend design. My goal is to build digital solutions that are not just functional, but impactful.
-
-- 🔭 **Current Venture:** Building **EduNex AI**, a platform revolutionizing educational resources for students.
-- 🎓 **Education:** BCA 1st Semester (Focusing on Computer Science fundamentals).
-- 💼 **Freelancing:** Open for high-quality web development projects.
-- 🧠 **Learning:** Scaling Microservices and Advanced DevOps.
-
----
-
-### 💻 Tech Stack Portfolio
-
-<table>
-  <tr>
-    <td align="center" width="33%">
-      <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/><br><b>Frontend</b><br>
-      React.js, Next.js, Tailwind, JavaScript (ES6+)
-    </td>
-    <td align="center" width="33%">
-      <img src="https://img.icons8.com/color/48/000000/nodejs.png"/><br><b>Backend</b><br>
-      Node.js, Express, REST APIs, Auth (JWT)
-    </td>
-    <td align="center" width="33%">
-      <img src="https://img.icons8.com/color/48/000000/mongodb.png"/><br><b>Database & Tools</b><br>
-      MongoDB, PostgreSQL, Git, Docker
-    </td>
-  </tr>
-</table>
-
----
-
-### 🛠 Projects In Progress
-- **EduNex AI** 📚: An AI-driven resource hub for college and school students.
-- **Portfolio Website** 🌐: A sleek, animated 3D portfolio using Three.js (Coming Soon).
-
----
-
-### 📊 GitHub Analytics (Real-time)
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=0xVishesh&show_icons=true&theme=transparent&hide_border=true&title_color=36BCF7&icon_color=36BCF7&text_color=ffffff" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=0xVishesh&theme=transparent&hide_border=true&stroke=36BCF7&ring=36BCF7&fire=36BCF7&currStreakNum=ffffff" width="48%" />
+  <a href="mailto:0xvishesh@gmail.com"><img src="https://img.shields.io/badge/Email-0xvishesh%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Portfolio-Coming%20Soon-black?style=flat-square&logo=google-chrome&logoColor=white" /></a>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=0xVishesh&theme=transparent" width="100%" />
-</p>
-
----
-
-### 📨 Get In Touch
-I'm always open to collaborating on open-source projects or discussing new opportunities!
-
-* 📧 **Email:** [0xvishesh@gmail.com](mailto:0xvishesh@gmail.com)
-* 💼 **LinkedIn:** [Pending Update...]
-* 🛠 **Freelance:** [DM for Projects]
-
-<p align="right">
-  <i>"Code is like humor. When you have to explain it, it’s bad."</i>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
+  <img src="https://github-profile-trophy.vercel.app/?username=0xVishesh&theme=tokyonight&no-bg=true&no-frame=true&column=7" />
 </p>
