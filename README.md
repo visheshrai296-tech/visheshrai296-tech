@@ -1,57 +1,93 @@
+<h1 align="center">Vishesh Rai</h1>
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=200&section=header&text=0xVishesh%20|%20Full%20Stack%20Engineer&fontSize=50&animation=fadeIn" />
-</p>
-
-## 🚀 Transforming Ideas into Scalable Digital Realities
-
-I am a **Full Stack Developer** specializing in building robust web architectures and high-performance applications. My expertise lies in creating seamless user interfaces integrated with powerful backend systems. Currently, I am focused on building **EduNex AI**, an ecosystem designed to digitize educational resources.
-
----
-
-### 🛠 Tech Stack & Expertise
-
-| Category | Technologies |
-| :--- | :--- |
-| **Frontend** | React.js, Next.js, Tailwind CSS, TypeScript, Redux |
-| **Backend** | Node.js, Express.js, GraphQL, REST APIs |
-| **Databases** | MongoDB, PostgreSQL, Redis |
-| **DevOps & Tools** | Git, Docker, AWS, Postman, Vercel |
-
----
-
-### 📈 Contribution Graph (Daily Activity)
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=0xVishesh&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=0xVishesh&theme=tokyonight&hide_border=true" width="48%" />
+  🚀 Full Stack Developer (in progress) • Future Startup Founder
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Building+My+Future;Full+Stack+Developer;Startup+Mindset;Learning+AI+%26+ML;Consistency+is+Key&center=true&width=520&height=45">
 </p>
 
 ---
 
-### 🌟 Featured Projects
-- **EduNex AI** (Lead Developer)
-  - An AI-powered platform for students to access structured learning materials.
-  - *Tech: Next.js, Node.js, MongoDB*
-- **Freelance Engine**
-  - Custom built-to-order web solutions for global clients.
+## 🧑‍💻 About Me
+- 🎓 BCA (AI & ML) Student  
+- 💻 Focused on **Full Stack Development**
+- 🚀 Passionate about building **real-world scalable products**
+- 🎯 Mission: Create my own **Tech Startup**
+- ⚡ Mindset: *Execute > Overthink*
 
 ---
 
-### ⚡ Professional Philosophy
-> *"Code is not just instructions for machines; it's a medium for solving human problems. I write code that is clean, scalable, and maintainable."*
-
----
-
-### 🤝 Connect & Collaborate
-<p align="left">
-  <a href="mailto:0xvishesh@gmail.com"><img src="https://img.shields.io/badge/Email-0xvishesh%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Portfolio-Coming%20Soon-black?style=flat-square&logo=google-chrome&logoColor=white" /></a>
+## 🛠️ Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,git,github,vscode" />
 </p>
 
+---
+
+## 📊 GitHub Insights
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=0xVishesh&theme=tokyonight&no-bg=true&no-frame=true&column=7" />
+  <img src="https://github-readme-stats.vercel.app/api?username=0xVishesh&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=0xVishesh&theme=tokyonight&hide_border=true" height="150"/>
+</p>
+
+---
+
+## 📈 Contribution Activity
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=0xVishesh&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
+
+## 🚀 Featured Projects (Coming Soon)
+> 🔨 Currently building high-quality projects — will be showcased here soon.
+
+- 🌐 Full Stack Web Apps  
+- 🤖 AI-based Mini Projects  
+- 📦 Real-world Problem Solving Projects  
+
+---
+
+## 🧠 Current Focus
+- ⚡ Next.js (Advanced Concepts)  
+- 🔥 Backend Development (Node.js)  
+- 🧩 System Design Basics  
+
+---
+
+## 🎯 2026 Roadmap
+- 🚀 Build & deploy multiple projects  
+- 💼 Start working on startup idea  
+- 📈 Improve problem solving & coding skills  
+- 🌍 Build strong online presence  
+
+---
+
+## 🌐 Connect
+<p align="center">
+  <a href="mailto:oxvishesh@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+  <a href="#">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+</p>
+
+---
+
+## 💭 Philosophy
+> "Small steps daily → Big success tomorrow"
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=0xVishesh&color=blue&style=flat-square" />
+</p>
+
+---
+
+<p align="center">
+  ⭐️ <b>Building something big, step by step.</b>
 </p>
